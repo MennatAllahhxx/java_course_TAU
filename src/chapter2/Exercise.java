@@ -2,7 +2,7 @@ package chapter2;
 
 import java.util.Scanner;
 
-public class exercise {
+public class Exercise {
     public static void main(String[] args) {
         System.out.print("please enter a season: ");
         Scanner scanner = new Scanner(System.in);
